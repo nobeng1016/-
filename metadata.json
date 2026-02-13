@@ -1,0 +1,8 @@
+{
+  "name": "Comfortable Nodak Nodak",
+  "description": "A high-end AI blogging dashboard for medical professionals, featuring the witty persona of Dr. Nodak. Optimized for SEO and social media publishing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
